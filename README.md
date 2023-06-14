@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div align="center">
+<div align="left">
 
 ![Stack](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Stack](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
@@ -9,7 +9,6 @@
 ![Stack](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Stack](https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=Swift&logoColor=white)
 ![Stack](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white)
-![Stack](https://img.shields.io/badge/bluetooth-0082FC?style=for-the-badge&logo=BLE&logoColor=white)
 ![Stack](https://img.shields.io/badge/ffmpeg-007808?style=for-the-badge&logo=FFmpeg&logoColor=white)
 ![Stack](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)
 ![Stack](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
