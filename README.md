@@ -1,4 +1,4 @@
-![soft](https://capsule-render.vercel.app/api?type=soft&color=00498c&text=Kimtaeoug\'Profile&fontSize=40&fontColor=FFFFFF&animation=twinkling)
+![soft](https://capsule-render.vercel.app/api?type=soft&color=00498c&text=Kimtaeoug\'Profile&fontSize=40&fontColor=FFFFFF&animation=fadeIn)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimtaeougID&show_icons=true&theme=radical)
 
