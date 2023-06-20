@@ -24,6 +24,7 @@
 ![Stack](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Stack](https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=Swift&logoColor=white)  
 ![Stack](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
+
 </div>  
 <div>
   
@@ -32,6 +33,7 @@
 ![Stack](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)
 ![Stack](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
 ![Stack](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)  
+
 </div>  
   
 <div>  
