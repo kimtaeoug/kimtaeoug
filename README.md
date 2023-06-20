@@ -9,13 +9,8 @@
   </a>
 </p>
 
-           border-top: none; // 상
-border-bottom: none; // 하
-border-left: none; // 좌
-border-right: none; // 우
-
 ### Glad to see you here!   
-<table style="border:none;">
+<table style="border-style:none;">
   <tr style="border:none;">
     <td style="border-top:none;border-bottom: none;border-left: none;border-right: none;">
       <p style="line-height:1.2;">
