@@ -11,7 +11,7 @@
 
 ### Glad to see you here!   
 
-<table style="border-collapse: collapse;border: none;">
+<table style="border-collapse: collapse; border: none;">
   <th style="border:none;">
     <td style="border: none;">
       <p style="line-height:1.2;">
