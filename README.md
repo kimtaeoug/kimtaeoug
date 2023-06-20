@@ -1,4 +1,4 @@
-![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=hey1&fontAlign=30&fontSize=30&textBg=true&desc=hey2&descAlign=60&descAlignY=50)
+![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Good%20to%20use%20with%20other%20readme&fontSize=40&animation=twinkling)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimtaeougID&show_icons=true&theme=radical)
 
