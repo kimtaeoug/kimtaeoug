@@ -1,11 +1,13 @@
 <h1 align="center">
 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	Hi, Welcome to my profile!
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=300&lines=Welcome+to+My+Profile;My+Name+is+KimTaeOug;I+am+an+App+Developer;With+Flutter)](https://git.io/typing-svg)
+ 
 	<img src="https://emoji.discord.st/emojis/dc5dc637-3062-4bb8-a984-93823e531596.gif" width="30">
 </h1>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=300&lines=Welcome+to+My+Profile;My+Name+is+KimTaeOug;I+am+an+App+Developer;With+Flutter)](https://git.io/typing-svg)
+
 
 ### <img src="./rockstar.gif" width="40px"> Short Introduction
 - 🔭 &nbsp; 저는 현재 K-popFactory에서 Tunegem 앱 개발을 하고 있습니다
