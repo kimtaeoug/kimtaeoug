@@ -8,11 +8,16 @@
     <img src="https://img.shields.io/badge/DEMO%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
   </a>
 </p>
-           
+
+           border-top: none; // 상
+border-bottom: none; // 하
+border-left: none; // 좌
+border-right: none; // 우
+
 ### Glad to see you here!   
 <table style="border:none;">
   <tr style="border:none;">
-    <td style="border:none;">
+    <td style="border-top:none;border-bottom: none;border-left: none;border-right: none;">
       <p style="line-height:1.2;">
               🛠 &nbsp; 저는 Flutter로 앱을 개발하며, 필요에따라 Android(java, kotlin), iOS(swift)를 활용하고 있습니다.<br>  
       </p>
