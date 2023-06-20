@@ -10,6 +10,9 @@
 </p>
 
 ### ⚒️Stack
+<table>
+  <tr>
+    <td>
 <div align="left">
 <div>
   
@@ -36,9 +39,16 @@
 
 </div>  
   
-<div>  
+<div>        
+    </td>
+  <td>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimtaeoug&layout=compact)    
+  </td>
+  </tr>
+</table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimtaeoug&layout=compact)
+
+
 
   
 <!--
