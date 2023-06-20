@@ -1,7 +1,6 @@
 <h1 align="center">
+	Hello, Welcome to my profile!
 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	Hi, Welcome to my profile!
-	<img src="https://emoji.discord.st/emojis/dc5dc637-3062-4bb8-a984-93823e531596.gif" width="30">
 </h1>
 <br/>
 
