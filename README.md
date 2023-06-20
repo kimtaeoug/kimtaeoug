@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Welcome+to+My+Profile;My+Name+is+KimTaeOug;I+am+an+App+Developer;Sphinx+of+black+quartz%2C+judge+my+vow)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=435&lines=Welcome+to+My+Profile;My+Name+is+KimTaeOug;I+am+an+App+Developer;With+Flutter)](https://git.io/typing-svg)
 <p align='center'> Decorate GitHub Profile or any Repo like me! </p>
 <p align='center'>
   <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
