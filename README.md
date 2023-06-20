@@ -24,7 +24,7 @@
   
 <div>  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimtaeoug&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimtaeoug&hide_progress=true&layout=compact)
 
   
 <!--
