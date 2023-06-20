@@ -10,7 +10,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&vCenter=true&width=300&lines=I+am+an+AppDeveloper+;By+Means+Of;Flutter+%26+Dart;Android+%26+Kotlin+%26+Java;iOS+%26+Swift)](https://git.io/typing-svg)
 
 <hr />
-저는 Application 개발자 김태욱입니다. 현재 K-popFactory에서 Tunegem 서비스 개발을 하고 있습니다. 
+저는 Application 개발자 김태욱입니다. 현재 K-popFactory에서 Tunegem 서비스 개발을 하고 있습니다. Flutter를 활용해 다수의 앱을 개발한 경험이 있고, 작은 규모이지만 팀에서 리딩도 전담해 프로젝트를 해결한 경험이 있습니다. 
+
 저는 약 3년 넘게 개발잘
 
 저는 소프트웨어 엔지니어/데이터 과학자인 노먼 Iqbal입니다. 저는 파키스탄 출신으로 이슬라마바드에 살고 있으며 현재 데이터 과학 석사 학위를 취득하고 있습니다. 소프트웨어에 대한 저의 열정은 아이디어를 구상하고 우아한 인터페이스로 실현하는 것입니다. 저는 제가 만드는 것들의 경험, 건축, 코드 품질에 많은 신경을 씁니다. 저는 인공지능, 기계 학습, 데이터 과학과 깊은 사랑에 빠졌습니다.
@@ -25,9 +26,10 @@
 
 ### ✨ Short Preference
 
-- 앱 품질 향상을 통해 서비스 기여하는데 관심이 있습니다.
-- 새로운 기술을 탐구하고, 문제 해결에 활용하는 것을 좋아합니다.
-- 팀원과 일적으로/사적으로 소통하는 것을 좋아합니다.
+- 🔭 &nbsp; 앱 품질 향상을 통해 서비스 기여하는데 관심이 있습니다.
+- 🧑‍💻 &nbsp; 새로운 기술을 탐구하고, 문제 해결에 활용하는 것을 좋아합니다.
+- 💬 &nbsp; 팀원과 일적으로/사적으로 소통하는 것을 좋아합니다. 
+- 📫 &nbsp; How to reach me 312tkdldjs@gmail.com  
   
 ### ⚒️ Stack
 <table>
