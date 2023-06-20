@@ -10,7 +10,7 @@
 </p>
 
 ### Glad to see you here!   
-<img align="left" width="375"  src="./flutter_img.png" />
+<img align="right" width="375"  src="./flutter_img.png" />
 
 ### Talking about Personal Stuffs:
 
