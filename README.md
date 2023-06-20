@@ -2,7 +2,6 @@
 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=300&lines=Welcome+to+My+Profile;My+Name+is+KimTaeOug;I+am+an+App+Developer;With+Flutter)](https://git.io/typing-svg)
- 
 	<img src="https://emoji.discord.st/emojis/dc5dc637-3062-4bb8-a984-93823e531596.gif" width="30">
 </h1>
 <br/>
