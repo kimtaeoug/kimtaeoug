@@ -10,7 +10,7 @@
 </p>
            
 ### Glad to see you here!   
-<table>
+<table style="border:none;">
   <tr>
     <td>
       <p style="line-height:1.2;">
