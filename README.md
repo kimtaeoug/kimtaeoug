@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Welcome+to+My+Profile;My+Name+is+KimTaeOug;I+am+an+App+Developer;With+Flutter)](https://git.io/typing-svg)
-
 <h1 align="center">
 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	Hi, Welcome to my profile!
@@ -7,15 +5,7 @@
 </h1>
 <br/>
 
-<p align='center'> Decorate GitHub Profile or any Repo like me! </p>
-<p align='center'>
-  <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
-    <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-  <a href="#demo">
-    <img src="https://img.shields.io/badge/DEMO%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Welcome+to+My+Profile;My+Name+is+KimTaeOug;I+am+an+App+Developer;With+Flutter)](https://git.io/typing-svg)
 
 ### <img src="./rockstar.gif" width="40px"> Short Introduction
 - 🔭 &nbsp; 저는 현재 K-popFactory에서 Tunegem 앱 개발을 하고 있습니다
