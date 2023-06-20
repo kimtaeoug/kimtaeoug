@@ -1,6 +1,7 @@
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=00498c&text=Kimtaeoug\'Profile&fontSize=40&fontColor=FFFFFF&animation=fadeIn)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimtaeougID&show_icons=true&theme=radical)
+[cobalt]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=cobalt
+
 
 <p align='center'> Decorate GitHub Profile or any Repo like me! </p>
 <p align='center'>
