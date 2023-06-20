@@ -9,12 +9,12 @@
   </a>
 </p>
 
-Glad to see you here!   
-I'm a graduate in Computer Science 🎓 from Delhi University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+### Glad to see you here!   
+🤓 저는 Flutter로 앱을 개발하고 있습니다.  
+🏛 저는 대학에서 컴퓨터 공학관련 학과를 나왔습니다.  
+💡 새로운 기술을 탐구하고, 문제 해결에 활용하는 것을 좋아합니다.  
+✨ 팀원과 애기하는 것을 좋아합니다.  
 
-Joined Github 4 years ago.
-
-Since then I pushed 2719+ commits, opened 229+ issues, submitted 291+ pull requests, created 20+ gists and contributed to 20+ public repositories.
 
 
 ### ⚒️ Stack
