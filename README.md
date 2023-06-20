@@ -11,8 +11,8 @@
            
 ### Glad to see you here!   
 <table style="border:none;">
-  <tr>
-    <td>
+  <tr style="border:none;">
+    <td style="border:none;">
       <p style="line-height:1.2;">
               🛠 &nbsp; 저는 Flutter로 앱을 개발하며, 필요에따라 Android(java, kotlin), iOS(swift)를 활용하고 있습니다.<br>  
       </p>
@@ -33,7 +33,7 @@
       </p>
       </p>  
     </td>
-    <td>
+    <td style="border:none;">
       <img width="500px" src="./flutter_img.png">
     </td>
   </tr>
