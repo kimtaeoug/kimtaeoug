@@ -19,7 +19,7 @@
 - 💡 &nbsp; 새로운 기술을 탐구하고, 문제 해결에 활용하는 것을 좋아합니다.
 - ✨ &nbsp; 팀원과 일적으로/사적으로 소통하는 것을 좋아합니다.
 - 📫 &nbsp; How To Reach Me : tkdldjs312@naver.com
-- 
+  
 ### ⚒️ Stack
 <table>
   <tr>
