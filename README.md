@@ -34,7 +34,7 @@
       </p>  
     </td>
     <td>
-      <img width="400px" src="./flutter_img.png">
+      <img width="500px" src="./flutter_img.png">
     </td>
   </tr>
 </table>
