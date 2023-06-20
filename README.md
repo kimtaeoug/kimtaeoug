@@ -13,28 +13,28 @@
 <table>
   <tr>
     <td>
-      <p style="line-height:1.3;">
+      <p style="line-height:1.2;">
               🛠 &nbsp; 저는 Flutter로 앱을 개발하며, 필요에따라 Android(java, kotlin), iOS(swift)를 활용하고 있습니다.<br>  
       </p>
-      <p style="line-height:1.3;">
+      <p style="line-height:1.2;">
       🏛 &nbsp; 저는 대학에서 컴퓨터 공학관련 학과를 나왔습니다.<br>    
       </p> 
-      <p style="line-height:1.3;">
+      <p style="line-height:1.2;">
       🚀 &nbsp; 앱 품질 향상을 통해 서비스 기여하는데 관심이 있습니다.<br>     
       </p>
-      <p style="line-height:1.3;">
+      <p style="line-height:1.2;">
       💡 &nbsp; 새로운 기술을 탐구하고, 문제 해결에 활용하는 것을 좋아합니다.<br>       
       </p>
-      <p style="line-height:1.3;">
+      <p style="line-height:1.2;">
       ✨ &nbsp; 팀원과 일적으로/사적으로 소통하는 것을 좋아합니다.<br> 
       </p>
-      <p style="line-height:1.3;">
+      <p style="line-height:1.2;">
       📫 &nbsp; How To Reach Me : tkdldjs312@naver.com
       </p>
       </p>  
     </td>
     <td>
-      <img width="200px" src="./flutter_img.png">
+      <img width="350px" src="./flutter_img.png">
     </td>
   </tr>
 </table>
