@@ -23,7 +23,7 @@
 ![Stack](https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white)
 ![Stack](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Stack](https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=Swift&logoColor=white)  
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white?&style=for-the-badge&&logoColor=white"/>
+![Stack](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
 </div>  
 <div>
