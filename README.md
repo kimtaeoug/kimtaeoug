@@ -5,7 +5,7 @@
 </h1>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Welcome+to+My+Profile;My+Name+is+KimTaeOug;I+am+an+App+Developer;With+Flutter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=300&lines=Welcome+to+My+Profile;My+Name+is+KimTaeOug;I+am+an+App+Developer;With+Flutter)](https://git.io/typing-svg)
 
 ### <img src="./rockstar.gif" width="40px"> Short Introduction
 - 🔭 &nbsp; 저는 현재 K-popFactory에서 Tunegem 앱 개발을 하고 있습니다
