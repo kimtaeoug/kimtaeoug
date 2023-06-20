@@ -11,10 +11,10 @@
 
 ### Glad to see you here!   
   <div style="display: flex; align-items: center;">
-    <div style="display: inline-block;">
+    <div style="display: flex;">
     <img width="200px" src="./flutter_img.png">      
     </div>
-    <div style="display: inline-block;">
+    <div style="display: flex;">
       <p style="line-height:1.2;">
               🛠 &nbsp; 저는 Flutter로 앱을 개발하며, 필요에따라 Android(java, kotlin), iOS(swift)를 활용하고 있습니다.<br>  
       </p>
