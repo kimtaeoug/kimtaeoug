@@ -10,10 +10,10 @@
 </p>
 
 ### <img src="./rockstar.gif" width="40px"> Short Introduction
-🔭 I’m currently working on K-popApp  
-💬 Ask me about ... App Develpoment  
-⚡ Fun fact ... Love Console Game❤  
-📫 How to reach me 312tkdldjs@gmail.com  
+- 🔭 I’m currently working on K-popApp  
+- 💬 Ask me about ... App Develpoment  
+- ⚡ Fun fact ... Love Console Game❤  
+- 📫 How to reach me 312tkdldjs@gmail.com  
 
 <img align="right" width="375"  src="./flutter_img.png" />
 
