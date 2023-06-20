@@ -42,6 +42,7 @@
 <div>        
     </td>
   <td>
+    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimtaeoug&layout=compact)    
   </td>
   </tr>
