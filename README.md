@@ -1,5 +1,7 @@
 ![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=hey1&fontAlign=30&fontSize=30&textBg=true&desc=hey2&descAlign=60&descAlignY=50)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimtaeougID&show_icons=true&theme=radical)
+
 <p align='center'> Decorate GitHub Profile or any Repo like me! </p>
 <p align='center'>
   <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
