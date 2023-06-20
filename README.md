@@ -37,7 +37,7 @@
       </p>
       </p>  
       <div>
-      <img width="100%" src="./flutter_img.png">
+      <img width="200px" src="./flutter_img.png">
   </div>
 
 ### ⚒️ Stack
