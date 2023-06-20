@@ -38,11 +38,10 @@
       </p>  
     </td>
     <td style="border:none;">
-      <img width="500px" src="./flutter_img.png">
+      <img width="100%" src="./flutter_img.png">
     </td>
   </tr>
 </table>
-
 
 ### ⚒️ Stack
 <table>
