@@ -14,22 +14,19 @@
   <tr>
     <td>
 <div align="left">
-<div>
   
 ![Stack](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Stack](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
 ![Stack](https://img.shields.io/badge/apple-000000?style=for-the-badge&logo=IOS&logoColor=white)  
 
-</div>  
-<div>
+
   
 ![Stack](https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white)
 ![Stack](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Stack](https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=Swift&logoColor=white)
 ![Stack](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Stack](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)  
-</div>  
-<div>
+
   
 ![Stack](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Stack](https://img.shields.io/badge/ffmpeg-007808?style=for-the-badge&logo=FFmpeg&logoColor=white)
@@ -41,7 +38,7 @@
 ![Stack](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=Github&logoColor=white)
 ![Stack](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)  
 
-</div>  
+  
   
 <div>        
     </td>
