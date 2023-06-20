@@ -14,12 +14,6 @@
 <br/>
 📫 &nbsp; How to reach me 312tkdldjs@gmail.com  
 
-### <img src="./rockstar.gif" width="40px"> Short Introduction
-- 🔭 &nbsp; 저는 현재 K-popFactory에서 Tunegem 앱 개발을 하고 있습니다
-- 🧑‍💻 &nbsp; 저는 Flutter로 앱을 개발하며, 필요에따라 Android(java, kotlin), iOS(swift)를 활용하고 있습니다.  
-- 💬 &nbsp; Ask me about ... App Develpoment(Flutter)  
-- 📫 &nbsp; How to reach me 312tkdldjs@gmail.com  
-
 <img align="right" width="375"  src="./flutter_img.png" />
 
 ### ✨ Short Preference
