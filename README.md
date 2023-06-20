@@ -10,45 +10,16 @@
 </p>
 
 ### Glad to see you here!   
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="left" width="375"  src="./flutter_img.png" />
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/iampavangandhi).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
-  
-  <div style="display: flex; align-items: center;">
-    <div style="align : left;">
-    <img width="200px" src="./flutter_img.png">      
-    </div>
-    <div style="align : right;">
-      <p style="line-height:1.2;">
-              🛠 &nbsp; 저는 Flutter로 앱을 개발하며, 필요에따라 Android(java, kotlin), iOS(swift)를 활용하고 있습니다.<br>  
-      </p>
-      <p style="line-height:1.2;">
-      🏛 &nbsp; 저는 대학에서 컴퓨터 공학관련 학과를 나왔습니다.<br>    
-      </p> 
-      <p style="line-height:1.2;">
-      🚀 &nbsp; 앱 품질 향상을 통해 서비스 기여하는데 관심이 있습니다.<br>     
-      </p>
-      <p style="line-height:1.2;">
-      💡 &nbsp; 새로운 기술을 탐구하고, 문제 해결에 활용하는 것을 좋아합니다.<br>       
-      </p>
-      <p style="line-height:1.2;">
-      ✨ &nbsp; 팀원과 일적으로/사적으로 소통하는 것을 좋아합니다.<br> 
-      </p>
-      <p style="line-height:1.2;">
-      📫 &nbsp; How To Reach Me : tkdldjs312@naver.com
-      </p>
-      </p>  
-      <div>
-  </div>
-
+- 🛠 &nbsp; 저는 Flutter로 앱을 개발하며, 필요에따라 Android(java, kotlin), iOS(swift)를 활용하고 있습니다.
+- 🚀 &nbsp; 앱 품질 향상을 통해 서비스 기여하는데 관심이 있습니다.
+- 💡 &nbsp; 새로운 기술을 탐구하고, 문제 해결에 활용하는 것을 좋아합니다.
+- ✨ &nbsp; 팀원과 일적으로/사적으로 소통하는 것을 좋아합니다.
+- 📫 &nbsp; How To Reach Me : tkdldjs312@naver.com
+- 
 ### ⚒️ Stack
 <table>
   <tr>
