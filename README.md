@@ -1,11 +1,4 @@
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=00498c&text=Kimtaeoug\'Profile&fontSize=40&fontColor=FFFFFF&animation=fadeIn)
-
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimtaeoug&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
 <p align='center'> Decorate GitHub Profile or any Repo like me! </p>
 <p align='center'>
   <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
