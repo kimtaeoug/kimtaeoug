@@ -11,7 +11,7 @@
 
 <hr />
 저는 Application 개발자 김태욱입니다. 현재 K-popFactory에서 Tunegem 서비스 개발을 하고 있습니다. Flutter를 활용해 다수의 앱을 개발한 경험이 있고, 작은 규모이지만 팀에서 리딩도 전담해 프로젝트를 해결한 경험이 있습니다. 
-
+<br/>
 📫 &nbsp; How to reach me 312tkdldjs@gmail.com  
 
 ### <img src="./rockstar.gif" width="40px"> Short Introduction
