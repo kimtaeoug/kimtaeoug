@@ -8,14 +8,26 @@
     <img src="https://img.shields.io/badge/DEMO%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
   </a>
 </p>
-
+         <a href="https://drive.google.com/file/d/1ruBQovASZY0D_ppkiltXThmqzcCsqXss/view?usp=drive_link">
+         <img width="200px" src="./1.png">
+           
 ### Glad to see you here!   
-- 🛠 &nbsp; 저는 Flutter로 앱을 개발하며, 필요에따라 Android(java, kotlin), iOS(swift)를 활용하고 있습니다.  
-- 🏛 &nbsp; 저는 대학에서 컴퓨터 공학관련 학과를 나왔습니다.  
-- 🚀 &nbsp; 앱 품질 향상을 통해 서비스 기여하는데 관심이 있습니다.  
-- 💡 &nbsp; 새로운 기술을 탐구하고, 문제 해결에 활용하는 것을 좋아합니다.  
-- ✨ &nbsp; 팀원과 일적으로/사적으로 소통하는 것을 좋아합니다.  
-- 📫 &nbsp; How To Reach Me : tkdldjs312@naver.com
+<table>
+  <tr>
+    <td>
+
+      - 🛠 &nbsp; 저는 Flutter로 앱을 개발하며, 필요에따라 Android(java, kotlin), iOS(swift)를 활용하고 있습니다.  
+      - 🏛 &nbsp; 저는 대학에서 컴퓨터 공학관련 학과를 나왔습니다.  
+      - 🚀 &nbsp; 앱 품질 향상을 통해 서비스 기여하는데 관심이 있습니다.  
+      - 💡 &nbsp; 새로운 기술을 탐구하고, 문제 해결에 활용하는 것을 좋아합니다.  
+      - ✨ &nbsp; 팀원과 일적으로/사적으로 소통하는 것을 좋아합니다.  
+      - 📫 &nbsp; How To Reach Me : tkdldjs312@naver.com
+    
+    </td>
+    <td>
+    </td>
+  </tr>
+</table>
 
 
 ### ⚒️ Stack
