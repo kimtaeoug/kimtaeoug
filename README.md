@@ -8,7 +8,8 @@
     <img src="https://img.shields.io/badge/DEMO%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
   </a>
 </p>
-<img src="./rockstar.gif" width="40px">
+
+### <img src="./rockstar.gif" width="40px"> Short Introduction
 🔭 I’m currently working on K-popApp  
 💬 Ask me about ... App Develpoment  
 ⚡ Fun fact ... Love Console Game❤  
