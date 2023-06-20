@@ -7,6 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&vCenter=true&width=300&lines=I+am+an+AppDeveloper+;By+Means+Of;Flutter+%26+Dart;Android+%26+Kotlin+%26+Java;iOS+%26+Swift)](https://git.io/typing-svg)
 
+<hr />
 
 ### <img src="./rockstar.gif" width="40px"> Short Introduction
 - 🔭 &nbsp; 저는 현재 K-popFactory에서 Tunegem 앱 개발을 하고 있습니다
