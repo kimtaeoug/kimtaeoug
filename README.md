@@ -10,7 +10,10 @@
 </p>
 
 ### Glad to see you here!   
-
+| Header 1 | Header 2 |
+| -------- | -------- |
+| Data 1   | Data 2   |
+| Data 3   | Data 4   |
 <table style="border-collapse: collapse; border: none;">
   <tr style="border:none;">
     <td style="border: none;">
