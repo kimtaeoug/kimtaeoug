@@ -10,9 +10,8 @@
 </p>
 
 ### <img src="./rockstar.gif" width="40px"> Short Introduction
-- 🔭 &nbsp; I’m currently working on K-popApp  
-- 💬 &nbsp; Ask me about ... App Develpoment  
-- ⚡ &nbsp; Fun fact ... Love Console Game❤  
+- 🔭 &nbsp; 저는 현재 K-popFactory에서 Tunegem 앱 개발을 하고 있습니다  
+- 💬 &nbsp; Ask me about ... App Develpoment(Flutter)  
 - 📫 &nbsp; How to reach me 312tkdldjs@gmail.com  
 
 <img align="right" width="375"  src="./flutter_img.png" />
