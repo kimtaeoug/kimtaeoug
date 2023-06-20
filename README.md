@@ -10,6 +10,15 @@
 </p>
 
 ### Glad to see you here!   
+<style>
+  table {
+    border-collapse: collapse;
+  }
+
+  table, th, td {
+    border: none;
+  }
+</style>
 <table style="border-style:none;">
   <tr style="border:none;">
     <td style="border-top:none;border-bottom: none;border-left: none;border-right: none;">
