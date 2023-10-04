@@ -10,7 +10,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&vCenter=true&width=300&lines=I+am+an+AppDeveloper+;By+Means+Of;Flutter+%26+Dart;Android+%26+Kotlin+%26+Java;iOS+%26+Swift)](https://git.io/typing-svg)
 
 <hr />
-안녕하세요. 저는 Application 개발자 김태욱입니다. 현재 K-popFactory에서 Tunegem 서비스 개발을 하고 있습니다.
+안녕하세요. 저는 Flutter 기반 Application 개발자 김태욱입니다.
 
 📫 &nbsp; Contacts : 312tkdldjs@gmail.com  
 
